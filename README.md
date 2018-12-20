@@ -1,2 +1,2 @@
 # firmware-debugging
-A dumping ground for firmware debugging tools, scripts, and ideas
+A dumping ground for firmware debugging tools, scripts, analytics, and ideas
